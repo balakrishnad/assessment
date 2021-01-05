@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.689f333f.chunk.css",
+    "main.js": "/static/js/main.0564e6f5.chunk.js",
+    "main.js.map": "/static/js/main.0564e6f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e992bd01.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e992bd01.js.map",
+    "static/css/2.2f825e24.chunk.css": "/static/css/2.2f825e24.chunk.css",
+    "static/js/2.0049dd3e.chunk.js": "/static/js/2.0049dd3e.chunk.js",
+    "static/js/2.0049dd3e.chunk.js.map": "/static/js/2.0049dd3e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ca8ebf541af0324cb6d8e6b33f060024.js": "/precache-manifest.ca8ebf541af0324cb6d8e6b33f060024.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2f825e24.chunk.css.map": "/static/css/2.2f825e24.chunk.css.map",
+    "static/css/main.689f333f.chunk.css.map": "/static/css/main.689f333f.chunk.css.map",
+    "static/js/2.0049dd3e.chunk.js.LICENSE.txt": "/static/js/2.0049dd3e.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/pepsico-logo.png": "/static/media/pepsico-logo.b88b0eff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e992bd01.js",
+    "static/css/2.2f825e24.chunk.css",
+    "static/js/2.0049dd3e.chunk.js",
+    "static/css/main.689f333f.chunk.css",
+    "static/js/main.0564e6f5.chunk.js"
+  ]
+}

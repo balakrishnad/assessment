@@ -1,0 +1,20 @@
+.custom-label-wrapper {
+    text-align: left;
+    margin: 1rem;
+    margin-left: 2rem;
+}
+
+.custom-label-title {
+    font-size: 13px;
+    letter-spacing: 0;
+    color: #a7a7a7;
+    text-transform: uppercase;
+}
+
+.custom-label-value {
+    font-size: 16px;
+    margin-top: 0px;
+    letter-spacing: 0;
+    padding-right: 10px;
+    color: #5b5b5b;
+}

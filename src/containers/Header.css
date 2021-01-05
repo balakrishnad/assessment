@@ -1,0 +1,22 @@
+.fsha-header-logo {
+    width: 11rem;
+    height: 4rem;
+    margin: 0 1rem;
+    cursor: pointer;
+}
+
+.fsha-header-logo > img {
+    width: 11rem;
+    height: 3rem;
+}
+.fsha-header-title{
+    color:#fff;
+}
+.navbar.bg-dark{
+    background-color:#6f6f6f!important;
+    padding: 0 2rem;
+}
+.bi-person-circle{
+    color:#bebebe;
+    cursor: pointer;
+}

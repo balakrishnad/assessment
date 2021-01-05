@@ -1,0 +1,1 @@
+export const FETCH_FSHA_LIST = 'FETCH_FSHA_LIST';

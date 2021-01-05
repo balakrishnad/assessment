@@ -1,0 +1,44 @@
+.history {
+    background: transparent;
+    border: none;
+    text-decoration: underline;
+    font-size: 17px;
+    font-weight: 500;
+    color: #6f6f6f;
+    padding: .5rem;
+}
+
+.details {
+    background: #6f6f6f;
+    border: none;
+    padding: .5rem;
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.assessment {
+    background: transparent;
+    border: 2px solid #6f6f6f;
+    font-size: 17px;
+    font-weight: 500;
+    color: #6f6f6f;
+    padding: 0.7rem 2rem;
+    border-radius: 2rem;
+    float:right;
+}
+.assessment span::before {
+    content: "\002B";
+    border-radius: 50%;
+    border: 1px solid #6f6f6f;
+    padding: 2px 7px 4px 8px;
+    margin-right: 1rem;
+    width: 100%;
+}
+button > span {
+    font-weight: bold;
+}
+.noOutline:focus,.noOutline:hover {
+    outline:none;
+    outline-color: transparent;
+}

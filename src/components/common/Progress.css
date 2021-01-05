@@ -1,0 +1,54 @@
+.progressBar,.labelWrapper{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+}
+.progressBar .col-md-3,.progressBar .col-md-2{
+    padding: 0;
+}
+.circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #c9e3dd;
+    float: left;
+}
+.progressBar p{
+    border-bottom: 2px solid #ccc;
+    width: 100%;
+    margin-top: 1rem;
+}
+.creation span, .fsReview span, .QCPDReview span {
+    width: 15px;
+    height: 15px;
+    background: #008265;
+    position: absolute;
+    top: 16.5%;
+    border-radius: 50%;
+    left: 2.7%;
+}
+.finalFSHA span {
+    width: 15px;
+    height: 15px;
+    background: #008265;
+    position: absolute;
+    top: 16.8%;
+    border-radius: 50%;
+    left: 4%;
+}
+.date {
+    font-size: 13px;
+    position: relative;
+    left: -7%;
+}
+.label{
+    position: relative;
+    left: -12%;
+    padding: 1rem 0;
+}
+.QCReview{
+    left: -15%;
+}
+.finalFSHAHTD{
+    left: -30%;
+}
